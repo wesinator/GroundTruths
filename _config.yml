@@ -1,1 +1,2 @@
+extensions: ["strikethrough", "autolink", "table", "tagfilter"]
 theme: jekyll-theme-cayman
