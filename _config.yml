@@ -1,2 +1,4 @@
-extensions: ["strikethrough", "autolink", "table", "tagfilter"]
 theme: jekyll-theme-cayman
+markdown: CommonMarkGhPages
+commonmark:
+  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
