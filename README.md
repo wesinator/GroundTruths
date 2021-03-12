@@ -1,6 +1,6 @@
-# CTI Ground Truths
+# CTI/DFIR truths
 
-Knowledgebase of universal truths, analysis caveats for cyber threat intelligence (CTI) , in one place.
+CTI and DFIR focused universal truths and technical analysis caveats, in one place.
 
 ## Truths
 
